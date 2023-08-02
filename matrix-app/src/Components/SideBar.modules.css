@@ -1,0 +1,39 @@
+.box{
+    width: 25.333px;
+height: 29.333px;
+flex-shrink: 0;
+fill: #FFF;
+margin-left: 35px;
+
+}
+.sidebarcontainer{
+    border-radius: 0px 32px 32px 0px;
+background: #292929;
+width:20%;
+ position: fixed;
+    top: 0;
+    z-index: 1;
+}
+.logoheading{
+    color: rgba(255, 255, 255, 0.70);
+font-family:Pa;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+height: 56px;
+}
+
+.tokentext{
+    color: var(--cultured-grey, #F7F9F9);
+font-family: Work Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 28px;
+
+}
+.selectoption:hover{
+    background-color:#F30050;
+    cursor: pointer;
+}
